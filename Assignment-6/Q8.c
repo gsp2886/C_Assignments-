@@ -23,6 +23,7 @@ int main()
         if(i==x)
             printf("Prime no");
 */
+
     else
         for(i=2;i<x;i++)
         {
