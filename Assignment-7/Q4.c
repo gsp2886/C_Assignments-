@@ -1,6 +1,6 @@
 //  Write a program to calculate HCF of two numbers
 //  let 18 24
-#include <stdio.h>
+#include<stdio.h>
 
 int main()
 {
