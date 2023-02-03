@@ -16,4 +16,5 @@ int main()
     }
     printf("Sum of first %d natural number is %d\n",x,sum);
 
+    return 0;
 }
